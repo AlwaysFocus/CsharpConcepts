@@ -1,0 +1,15 @@
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.deps.json
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.dll
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/ref/Basics.dll
+/Users/eli/Programming/C#/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.pdb
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.csprojAssemblyReference.cache
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.dll
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/ref/Basics.dll
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.pdb
+/Users/eli/Programming/C#/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache
