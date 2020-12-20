@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Numbers/Numbers.csproj",
-      "projectName": "Numbers",
-      "projectPath": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Numbers/Numbers.csproj",
+      "projectUniqueName": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Variables/Variables.csproj",
+      "projectName": "Variables",
+      "projectPath": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Variables/Variables.csproj",
       "packagesPath": "/Users/eli/.nuget/packages/",
-      "outputPath": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Numbers/obj/",
+      "outputPath": "/Users/eli/Programming/C#/CsharpConcepts/Code/Chapter02/Variables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eli/.nuget/NuGet/NuGet.Config"
